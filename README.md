@@ -2,9 +2,9 @@
 
 # Steps to Execute the given code
 
-a. open the c++ file on any ide of c++
-b. Paste the code of Input file in Input.txt
-3. Now compile and run the code
+a. open the c++ file on any ide of c++<br>
+b. Paste the code of Input file in Input.txt<br>
+3. Now compile and run the code<br>
 4. The required output will get printed in Output.txt file
 
 # Overview of the above code
